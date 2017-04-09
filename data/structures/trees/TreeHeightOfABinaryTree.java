@@ -1,4 +1,4 @@
-package jjava.trees;
+package data.structures.trees;
 
 import java.util.Scanner;
 

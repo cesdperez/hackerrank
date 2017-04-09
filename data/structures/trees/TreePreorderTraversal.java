@@ -1,4 +1,4 @@
-package jjava.trees;
+package data.structures.trees;
 
 /**
  * https://www.hackerrank.com/challenges/tree-preorder-traversal
